@@ -8,6 +8,7 @@
 Summary:	Collection of helpers and mock objects for unit tests and doc tests
 Summary(pl.UTF-8):	Zbiór funkcji pomocniczych i obiektów atrap do testów jednostkowych i dokumentacji
 Name:		python-testfixtures
+# keep 6.x here for python2 support
 Version:	6.18.5
 Release:	1
 License:	MIT
