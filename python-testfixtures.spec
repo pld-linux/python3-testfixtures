@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Zbiór funkcji pomocniczych i obiektów atrap do testów jedn
 Name:		python-testfixtures
 # keep 6.x here for python2 support
 Version:	6.18.5
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/testfixtures/
